@@ -16,7 +16,9 @@ public class Holamundo {
         int a = 8;
         int b = 9; 
         int c = 11; 
-        int d = 12;
+        int d = 12 ;
+        float z = (float) 6.5;
+        float f = (float) 7.9;
         
         for (int i=0;i<10;i++){
             System.out.println("i es = "+i);
